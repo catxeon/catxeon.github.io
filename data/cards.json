@@ -1,0 +1,2964 @@
+{
+ "version": 1,
+ "cards": [
+  {
+   "id": "c001",
+   "front": {
+    "file": "2026-08-30-0001.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0007.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "Black Metal · Limited",
+   "notes": "",
+   "tags": [
+    "металл"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c002",
+   "front": {
+    "file": "2026-08-30-0002.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0008.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "Black · Жостово",
+   "notes": "",
+   "tags": [
+    "дизайн"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c003",
+   "front": {
+    "file": "2026-08-30-0003.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0009.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "Premium · Supreme",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c004",
+   "front": {
+    "file": "2026-08-30-0004.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0010.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Mastercard",
+   "type": "дебетовая",
+   "title": "Black",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c005",
+   "front": {
+    "file": "2026-08-30-0005.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0011.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Mastercard",
+   "type": "дебетовая",
+   "title": "World Black Edition",
+   "notes": "",
+   "tags": [
+    "Lounge Key"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c006",
+   "front": {
+    "file": "2026-08-30-0006.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0012.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "Black",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c007",
+   "front": {
+    "file": "2026-08-30-0013.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0021.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Mastercard",
+   "type": "дебетовая",
+   "title": "All Airlines",
+   "notes": "",
+   "tags": [
+    "мили"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c008",
+   "front": {
+    "file": "2026-08-30-0014.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0022.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Mastercard",
+   "type": "дебетовая",
+   "title": "Rozetked",
+   "notes": "",
+   "tags": [
+    "кобренд"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c009",
+   "front": {
+    "file": "2026-08-30-0015.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0023.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "UnionPay",
+   "type": "дебетовая",
+   "title": "Black",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c010",
+   "front": {
+    "file": "2026-08-30-0016.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0024.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Mastercard",
+   "type": "дебетовая",
+   "title": "Black · рябина",
+   "notes": "",
+   "tags": [
+    "дизайн"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c011",
+   "front": {
+    "file": "2026-08-30-0017.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0025.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "All Airlines · Supreme",
+   "notes": "",
+   "tags": [
+    "мили"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c012",
+   "front": {
+    "file": "2026-08-30-0018.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0026.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "SBI Bank",
+   "country": "RU",
+   "network": "Mastercard",
+   "type": "дебетовая",
+   "title": "Platinum",
+   "notes": "эмбоссированная",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c013",
+   "front": {
+    "file": "2026-08-30-0019.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0027.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "All Airlines",
+   "notes": "",
+   "tags": [
+    "мили"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c014",
+   "front": {
+    "file": "2026-08-30-0020.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0028.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Газпромбанк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "",
+   "title": "Supreme",
+   "notes": "эмбоссированная; на обороте читается зеркальный отпечаток тиснения",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c015",
+   "front": {
+    "file": "2026-08-30-0029.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0037.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Альфа-Банк",
+   "country": "RU",
+   "network": "Mastercard",
+   "type": "дебетовая",
+   "title": "Альфа-Карта",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c016",
+   "front": {
+    "file": "2026-08-30-0030.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0038.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Мир",
+   "type": "",
+   "title": "Drive",
+   "notes": "на лице напечатан госномер автомобиля — замаскирован",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c017",
+   "front": {
+    "file": "2026-08-30-0031.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0039.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Альфа-Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "Альфа-Карта",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c018",
+   "front": {
+    "file": "2026-08-30-0032.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0040.png",
+    "rotate": 180,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Мир",
+   "type": "",
+   "title": "Тинькофф Карта для слепых",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c019",
+   "front": {
+    "file": "2026-08-30-0033.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0041.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "Junior",
+   "notes": "",
+   "tags": [
+    "детская"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c020",
+   "front": {
+    "file": "2026-08-30-0034.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0042.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Т-Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "Junior",
+   "notes": "",
+   "tags": [
+    "детская"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c021",
+   "front": {
+    "file": "2026-08-30-0035.png",
+    "rotate": 0,
+    "masks": [
+     [
+      0.1554,
+      0.8731,
+      0.1796,
+      0.0464
+     ]
+    ],
+    "nomask": false
+   },
+   "back": {
+    "file": "2026-08-30-0043.png",
+    "rotate": 0,
+    "masks": [
+     [
+      0.0611,
+      0.8002,
+      0.1774,
+      0.0595
+     ],
+     [
+      0.3395,
+      0.8107,
+      0.0247,
+      0.049
+     ],
+     [
+      0.3193,
+      0.6602,
+      0.0718,
+      0.154
+     ],
+     [
+      0.0858,
+      0.6602,
+      0.137,
+      0.1645
+     ]
+    ],
+    "nomask": false
+   },
+   "bank": "Альфа-Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "X5 Клуб",
+   "notes": "",
+   "tags": [
+    "кобренд"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c022",
+   "front": {
+    "file": "2026-08-30-0036.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0044.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Альфа-Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "кредитная",
+   "title": "",
+   "notes": "эмбоссированная; на обороте зеркальный отпечаток тиснения",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c023",
+   "front": {
+    "file": "2026-08-30-0045.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0053.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Т-Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "Black · кот",
+   "notes": "",
+   "tags": [
+    "дизайн"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c024",
+   "front": {
+    "file": "2026-08-30-0046.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0054.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Альфа-Банк",
+   "country": "RU",
+   "network": "Mastercard",
+   "type": "кредитная",
+   "title": "",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c025",
+   "front": {
+    "file": "2026-08-30-0047.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0055.png",
+    "rotate": 0,
+    "masks": [
+     [
+      0.0207,
+      0.3758,
+      0.2402,
+      0.5309
+     ],
+     [
+      0.2878,
+      0.767,
+      0.1527,
+      0.0454
+     ],
+     [
+      0.5775,
+      0.8613,
+      0.3772,
+      0.0524
+     ],
+     [
+      0.5797,
+      0.767,
+      0.2492,
+      0.0384
+     ],
+     [
+      0.3013,
+      0.6412,
+      0.4221,
+      0.0629
+     ],
+     [
+      0.3013,
+      0.5853,
+      0.2155,
+      0.0489
+     ]
+    ],
+    "nomask": false
+   },
+   "bank": "Сбербанк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "Единая карта петербуржца",
+   "notes": "именная карта с фотографией и датой рождения на обороте — оборот закрыт целиком",
+   "tags": [
+    "транспортная",
+    "кобренд"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c026",
+   "front": {
+    "file": "2026-08-30-0048.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0056.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Альфа-Банк",
+   "country": "RU",
+   "network": "Visa",
+   "type": "кредитная",
+   "title": "Travel",
+   "notes": "",
+   "tags": [
+    "мили"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c027",
+   "front": {
+    "file": "2026-08-30-0049.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0057.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "Black",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c028",
+   "front": {
+    "file": "2026-08-30-0050.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0058.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Альфа-Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "кредитная",
+   "title": "",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c029",
+   "front": {
+    "file": "2026-08-30-0051.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0059.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Т-Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "Family",
+   "notes": "",
+   "tags": [
+    "семейная"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c030",
+   "front": {
+    "file": "2026-08-30-0052.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0060.png",
+    "rotate": 180,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Альфа-Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "Альфа-Карта",
+   "notes": "эмбоссированная; на обороте зеркальный отпечаток тиснения",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c031",
+   "front": {
+    "file": "2026-08-30-0061.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": null,
+    "rotate": 0,
+    "masks": [],
+    "nomask": false
+   },
+   "bank": "Альфа-Банк",
+   "country": "RU",
+   "network": "",
+   "type": "",
+   "title": "",
+   "notes": "оборот не отсканирован",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c032",
+   "front": {
+    "file": "2026-08-30-0062.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": null,
+    "rotate": 0,
+    "masks": [],
+    "nomask": false
+   },
+   "bank": "Альфа-Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "",
+   "title": "",
+   "notes": "MIR Supreme; оборот не отсканирован",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c033",
+   "front": {
+    "file": "2026-08-30-0063.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": null,
+    "rotate": 0,
+    "masks": [],
+    "nomask": false
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Visa",
+   "type": "",
+   "title": "Rick and Morty",
+   "notes": "эмбоссированная; оборот не отсканирован",
+   "tags": [
+    "кобренд",
+    "дизайн"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c034",
+   "front": {
+    "file": "2026-08-30-0064.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": null,
+    "rotate": 0,
+    "masks": [],
+    "nomask": false
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Visa",
+   "type": "",
+   "title": "Rick and Morty · Pickle Rick",
+   "notes": "эмбоссированная; оборот не отсканирован",
+   "tags": [
+    "кобренд",
+    "дизайн"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c035",
+   "front": {
+    "file": "2026-08-30-0065.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": null,
+    "rotate": 0,
+    "masks": [],
+    "nomask": false
+   },
+   "bank": "Альфа-Банк",
+   "country": "RU",
+   "network": "Mastercard",
+   "type": "",
+   "title": "Билайн",
+   "notes": "оборот не отсканирован",
+   "tags": [
+    "кобренд"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c036",
+   "front": {
+    "file": "2026-08-30-0066.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": null,
+    "rotate": 0,
+    "masks": [],
+    "nomask": false
+   },
+   "bank": "Альфа-Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "",
+   "title": "Билайн",
+   "notes": "оборот не отсканирован",
+   "tags": [
+    "кобренд"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c037",
+   "front": {
+    "file": "2026-08-30-0067.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": null,
+    "rotate": 0,
+    "masks": [],
+    "nomask": false
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Visa",
+   "type": "кредитная",
+   "title": "Платинум",
+   "notes": "оборот не отсканирован",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c038",
+   "front": {
+    "file": "2026-08-30-0068.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": null,
+    "rotate": 0,
+    "masks": [],
+    "nomask": false
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Mastercard",
+   "type": "кредитная",
+   "title": "Платинум",
+   "notes": "оборот не отсканирован",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c039",
+   "front": {
+    "file": "2026-08-30-0069.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0077.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Мир",
+   "type": "кредитная",
+   "title": "Платинум",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c040",
+   "front": {
+    "file": "2026-08-30-0070.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0078.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Мир",
+   "type": "кредитная",
+   "title": "Платинум",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c041",
+   "front": {
+    "file": "2026-08-30-0071.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0079.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Мир",
+   "type": "кредитная",
+   "title": "Платинум · Supreme",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c042",
+   "front": {
+    "file": "2026-08-30-0072.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0080.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Мир",
+   "type": "кредитная",
+   "title": "Платинум · Supreme",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c043",
+   "front": {
+    "file": "2026-08-30-0073.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0081.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Сбербанк",
+   "country": "RU",
+   "network": "Mastercard",
+   "type": "",
+   "title": "#ВсёПросто",
+   "notes": "эмбоссированная; на обороте зеркальный отпечаток тиснения",
+   "tags": [
+    "дизайн"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c044",
+   "front": {
+    "file": "2026-08-30-0074.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0082.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Сбербанк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "",
+   "title": "",
+   "notes": "эмбоссированная; на обороте зеркальный отпечаток тиснения",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c045",
+   "front": {
+    "file": "2026-08-30-0075.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0083.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Сбербанк",
+   "country": "RU",
+   "network": "Visa",
+   "type": "дебетовая",
+   "title": "Momentum R",
+   "notes": "эмбоссированная, неименная",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c046",
+   "front": {
+    "file": "2026-08-30-0076.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0084.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Сбербанк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "",
+   "title": "",
+   "notes": "эмбоссированная; оформлена на другого держателя",
+   "tags": [
+    "дизайн"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c047",
+   "front": {
+    "file": "2026-08-30-0085.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0093.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "УБРиР",
+   "country": "RU",
+   "network": "Mastercard",
+   "type": "",
+   "title": "my life",
+   "notes": "эмбоссированная; на обороте зеркальный отпечаток тиснения",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c048",
+   "front": {
+    "file": "2026-08-30-0086.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0094.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "УБРиР",
+   "country": "RU",
+   "network": "Мир",
+   "type": "",
+   "title": "my life",
+   "notes": "эмбоссированная; на обороте подпись держателя и отпечаток тиснения",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c049",
+   "front": {
+    "file": "2026-08-30-0087.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0095.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Газпромбанк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "",
+   "title": "",
+   "notes": "эмбоссированная; на обороте зеркальный отпечаток тиснения",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c050",
+   "front": {
+    "file": "2026-08-30-0088.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0096.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Ак Барс Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "",
+   "title": "Карта жителя Республики Татарстан",
+   "notes": "",
+   "tags": [
+    "региональная"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c051",
+   "front": {
+    "file": "2026-08-30-0089.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0097.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Газпромбанк",
+   "country": "RU",
+   "network": "Visa",
+   "type": "",
+   "title": "Instant Card · Gold",
+   "notes": "эмбоссированная; кобренд с Hertz",
+   "tags": [
+    "кобренд"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c052",
+   "front": {
+    "file": "2026-08-30-0090.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0098.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Ак Барс Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "",
+   "title": "Госуслуги Республики Татарстан",
+   "notes": "",
+   "tags": [
+    "региональная",
+    "кобренд"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c053",
+   "front": {
+    "file": "2026-08-30-0091.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0099.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Сбербанк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "кредитная",
+   "title": "",
+   "notes": "эмбоссированная; на обороте зеркальный отпечаток тиснения",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c054",
+   "front": {
+    "file": "2026-08-30-0092.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0100.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Открытие",
+   "country": "RU",
+   "network": "Мир",
+   "type": "",
+   "title": "",
+   "notes": "эмбоссированная; на обороте зеркальный отпечаток тиснения",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c055",
+   "front": {
+    "file": "2026-08-30-0101.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0109.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Ак Барс Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "",
+   "title": "Улыбнитесь",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c056",
+   "front": {
+    "file": "2026-08-30-0102.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0110.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Ак Барс Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "",
+   "title": "Supreme",
+   "notes": "эмбоссированная; на обороте зеркальный отпечаток тиснения",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c057",
+   "front": {
+    "file": "2026-08-30-0103.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0111.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Ак Барс Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "",
+   "title": "Барс",
+   "notes": "эмбоссированная; на обороте зеркальный отпечаток тиснения",
+   "tags": [
+    "дизайн"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c058",
+   "front": {
+    "file": "2026-08-30-0104.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0112.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Ак Барс Банк",
+   "country": "RU",
+   "network": "Mastercard",
+   "type": "",
+   "title": "Барс",
+   "notes": "эмбоссированная; на обороте зеркальный отпечаток тиснения",
+   "tags": [
+    "дизайн"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c059",
+   "front": {
+    "file": "2026-08-30-0105.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0113.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Ак Барс Банк",
+   "country": "RU",
+   "network": "Mastercard",
+   "type": "",
+   "title": "Барс",
+   "notes": "эмбоссированная; на обороте зеркальный отпечаток тиснения",
+   "tags": [
+    "дизайн"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c060",
+   "front": {
+    "file": "2026-08-30-0106.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0114.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Ак Барс Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "",
+   "title": "Барс",
+   "notes": "эмбоссированная; на обороте зеркальный отпечаток тиснения",
+   "tags": [
+    "дизайн"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c061",
+   "front": {
+    "file": "2026-08-30-0107.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0115.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Райффайзенбанк",
+   "country": "RU",
+   "network": "Mastercard",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "эмбоссированная; на обороте зеркальный отпечаток тиснения",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c062",
+   "front": {
+    "file": "2026-08-30-0108.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0116.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Райффайзенбанк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "эмбоссированная; на обороте зеркальный отпечаток тиснения",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c063",
+   "front": {
+    "file": "2026-08-30-0117.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0125.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Райффайзенбанк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "эмбоссированная; на обороте зеркальный отпечаток тиснения",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c064",
+   "front": {
+    "file": "2026-08-30-0118.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0126.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "ВТБ",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "эмбоссированная, неименная; на обороте зеркальный отпечаток тиснения",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c065",
+   "front": {
+    "file": "2026-08-30-0119.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0127.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "ВТБ",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "Мультикарта",
+   "notes": "эмбоссированная; на обороте зеркальный отпечаток тиснения",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c066",
+   "front": {
+    "file": "2026-08-30-0120.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0128.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "ВТБ",
+   "country": "RU",
+   "network": "Мир",
+   "type": "кредитная",
+   "title": "Карта возможностей",
+   "notes": "эмбоссированная; на обороте зеркальный отпечаток тиснения",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c067",
+   "front": {
+    "file": "2026-08-30-0121.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0129.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Хоум Кредит Банк",
+   "country": "RU",
+   "network": "Visa",
+   "type": "дебетовая",
+   "title": "Польза",
+   "notes": "эмбоссированная; на обороте зеркальный отпечаток тиснения",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c068",
+   "front": {
+    "file": "2026-08-30-0122.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0130.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "ВТБ",
+   "country": "RU",
+   "network": "Мир",
+   "type": "",
+   "title": "",
+   "notes": "реквизиты напечатаны на обороте",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c069",
+   "front": {
+    "file": "2026-08-30-0123.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0131.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Хоум Кредит Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "эмбоссированная; на обороте зеркальный отпечаток тиснения",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c070",
+   "front": {
+    "file": "2026-08-30-0124.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0132.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Хоум Кредит Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "кредитная",
+   "title": "",
+   "notes": "«Хоум Банк», реквизиты напечатаны на обороте; CREDIT 120 GRACE",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c071",
+   "front": {
+    "file": "2026-08-30-0133.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0141.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "ОТП Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "эмбоссированная; на обороте зеркальный отпечаток тиснения",
+   "tags": [
+    "дизайн"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c072",
+   "front": {
+    "file": "2026-08-30-0134.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0142.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "ОТП Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "Supreme",
+   "notes": "эмбоссированная; на обороте зеркальный отпечаток тиснения",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c073",
+   "front": {
+    "file": "2026-08-30-0135.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0143.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Рокетбанк",
+   "country": "RU",
+   "network": "Mastercard",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "эмбоссированная; эмитент — Киви Банк; на обороте отпечаток тиснения",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c074",
+   "front": {
+    "file": "2026-08-30-0136.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0144.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Рокетбанк",
+   "country": "RU",
+   "network": "Mastercard",
+   "type": "",
+   "title": "",
+   "notes": "эмбоссированная; эмитент — Киви Банк; на обороте отпечаток тиснения",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c075",
+   "front": {
+    "file": "2026-08-30-0137.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0145.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Совкомбанк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "кредитная",
+   "title": "Халва",
+   "notes": "карта рассрочки; эмбоссированная",
+   "tags": [
+    "рассрочка"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c076",
+   "front": {
+    "file": "2026-08-30-0138.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0146.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Банк Левобережный",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "Express Card",
+   "notes": "реквизиты напечатаны на обороте",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c077",
+   "front": {
+    "file": "2026-08-30-0139.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0147.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Примсоцбанк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "неименная, мгновенной выдачи; эмбоссированная",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c078",
+   "front": {
+    "file": "2026-08-30-0140.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0148.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Ренессанс Кредит",
+   "country": "RU",
+   "network": "Мир",
+   "type": "",
+   "title": "Express Card",
+   "notes": "эмбоссированная; на обороте зеркальный отпечаток тиснения",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c079",
+   "front": {
+    "file": "2026-08-30-0149.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0157.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "AliExpress",
+   "notes": "",
+   "tags": [
+    "кобренд"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c080",
+   "front": {
+    "file": "2026-08-30-0150.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0158.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "Family · Supreme",
+   "notes": "",
+   "tags": [
+    "семейная"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c081",
+   "front": {
+    "file": "2026-08-30-0151.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0159.png",
+    "rotate": 0,
+    "masks": [
+     [
+      0.0072,
+      0.7782,
+      0.3952,
+      0.2218
+     ]
+    ],
+    "nomask": false
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "Магнит",
+   "notes": "на обороте штрих-код карты лояльности",
+   "tags": [
+    "кобренд"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c082",
+   "front": {
+    "file": "2026-08-30-0152.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0160.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "Friends · Supreme",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c083",
+   "front": {
+    "file": "2026-08-30-0153.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0161.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "Junior · единорог",
+   "notes": "",
+   "tags": [
+    "детская",
+    "дизайн"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c084",
+   "front": {
+    "file": "2026-08-30-0154.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0162.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "Junior · Магнит Скрепыши",
+   "notes": "",
+   "tags": [
+    "детская",
+    "кобренд"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c085",
+   "front": {
+    "file": "2026-08-30-0155.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0163.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Росбанк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "",
+   "title": "",
+   "notes": "эмбоссированная; на обороте зеркальный отпечаток тиснения",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c086",
+   "front": {
+    "file": "2026-08-30-0156.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0164.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Росбанк",
+   "country": "RU",
+   "network": "Mastercard",
+   "type": "",
+   "title": "#МожноВсё",
+   "notes": "эмбоссированная; на обороте зеркальный отпечаток тиснения",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c087",
+   "front": {
+    "file": "2026-08-30-0165.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": null,
+    "rotate": 0,
+    "masks": [],
+    "nomask": false
+   },
+   "bank": "Банк Союз",
+   "country": "RU",
+   "network": "Мир",
+   "type": "",
+   "title": "",
+   "notes": "эмбоссированная, неименная; оборот не отсканирован",
+   "tags": [
+    "дизайн"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c088",
+   "front": {
+    "file": "2026-08-30-0166.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": null,
+    "rotate": 0,
+    "masks": [],
+    "nomask": false
+   },
+   "bank": "Банк Союз",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "Supreme",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c089",
+   "front": {
+    "file": "2026-08-30-0167.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": null,
+    "rotate": 0,
+    "masks": [],
+    "nomask": false
+   },
+   "bank": "Кредит Европа Банк",
+   "country": "RU",
+   "network": "Mastercard",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c090",
+   "front": {
+    "file": "2026-08-30-0168.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": null,
+    "rotate": 0,
+    "masks": [],
+    "nomask": false
+   },
+   "bank": "Кредит Европа Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c091",
+   "front": {
+    "file": "2026-08-30-0169.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": null,
+    "rotate": 0,
+    "masks": [],
+    "nomask": false
+   },
+   "bank": "Почта Банк",
+   "country": "RU",
+   "network": "Visa",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c092",
+   "front": {
+    "file": "2026-08-30-0170.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": null,
+    "rotate": 0,
+    "masks": [],
+    "nomask": false
+   },
+   "bank": "Т-Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "Supreme",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c093",
+   "front": {
+    "file": "2026-08-30-0171.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": null,
+    "rotate": 0,
+    "masks": [],
+    "nomask": false
+   },
+   "bank": "МТС Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c094",
+   "front": {
+    "file": "2026-08-30-0172.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": null,
+    "rotate": 0,
+    "masks": [],
+    "nomask": false
+   },
+   "bank": "Т-Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "Supreme",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c095",
+   "front": {
+    "file": "2026-08-30-0173.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0181.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Ренессанс Кредит",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c096",
+   "front": {
+    "file": "2026-08-30-0174.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0182.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "Supreme",
+   "notes": "",
+   "tags": [
+    "стальная"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c097",
+   "front": {
+    "file": "2026-08-30-0175.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0183.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "ВТБ",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c098",
+   "front": {
+    "file": "2026-08-30-0176.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0184.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Синара",
+   "country": "RU",
+   "network": "Mastercard",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c099",
+   "front": {
+    "file": "2026-08-30-0177.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0185.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "МКБ",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c100",
+   "front": {
+    "file": "2026-08-30-0178.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0186.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "Supreme",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c101",
+   "front": {
+    "file": "2026-08-30-0179.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0187.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Уралсиб",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c102",
+   "front": {
+    "file": "2026-08-30-0180.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0188.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Тинькофф",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "Supreme",
+   "notes": "",
+   "tags": [
+    "стальная"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c103",
+   "front": {
+    "file": "2026-08-30-0189.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": null,
+    "rotate": 0,
+    "masks": [],
+    "nomask": false
+   },
+   "bank": "Россельхозбанк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c104",
+   "front": {
+    "file": "2026-08-30-0190.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": null,
+    "rotate": 0,
+    "masks": [],
+    "nomask": false
+   },
+   "bank": "Русский стандарт",
+   "country": "RU",
+   "network": "UnionPay",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c105",
+   "front": {
+    "file": "2026-08-30-0191.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": null,
+    "rotate": 0,
+    "masks": [],
+    "nomask": false
+   },
+   "bank": "Интерпрогрессбанк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c106",
+   "front": {
+    "file": "2026-08-30-0192.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": null,
+    "rotate": 0,
+    "masks": [],
+    "nomask": false
+   },
+   "bank": "Фора-Банк",
+   "country": "RU",
+   "network": "Visa",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c107",
+   "front": {
+    "file": "2026-08-30-0193.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": null,
+    "rotate": 0,
+    "masks": [],
+    "nomask": false
+   },
+   "bank": "Свой банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c108",
+   "front": {
+    "file": "2026-08-30-0194.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": null,
+    "rotate": 0,
+    "masks": [],
+    "nomask": false
+   },
+   "bank": "РостФинанс",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c109",
+   "front": {
+    "file": "2026-08-30-0195.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": null,
+    "rotate": 0,
+    "masks": [],
+    "nomask": false
+   },
+   "bank": "АТБ",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c110",
+   "front": {
+    "file": "2026-08-30-0196.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": null,
+    "rotate": 0,
+    "masks": [],
+    "nomask": false
+   },
+   "bank": "Wowpass",
+   "country": "KR",
+   "network": "без платёжной системы",
+   "type": "другое",
+   "title": "",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c111",
+   "front": {
+    "file": "2026-08-30-0197.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0198.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Altyn Bank",
+   "country": "KZ",
+   "network": "Mastercard",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c112",
+   "front": {
+    "file": "2026-08-30-0199.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0207.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Яндекс Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c113",
+   "front": {
+    "file": "2026-08-30-0200.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0208.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "ВТБ",
+   "country": "RU",
+   "network": "Мир",
+   "type": "кредитная",
+   "title": "",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c114",
+   "front": {
+    "file": "2026-08-30-0201.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0209.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "ОТП Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c115",
+   "front": {
+    "file": "2026-08-30-0202.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0210.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Солид Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c116",
+   "front": {
+    "file": "2026-08-30-0203.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0211.png",
+    "rotate": 0,
+    "masks": [
+     [
+      0.079,
+      0.4471,
+      0.6107,
+      0.0695
+     ],
+     [
+      0.436,
+      0.5723,
+      0.1414,
+      0.1217
+     ],
+     [
+      0.1486,
+      0.5897,
+      0.2088,
+      0.1321
+     ]
+    ],
+    "nomask": false
+   },
+   "bank": "Ozon Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c117",
+   "front": {
+    "file": "2026-08-30-0204.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0212.png",
+    "rotate": 0,
+    "masks": [
+     [
+      0.0768,
+      0.4295,
+      0.6309,
+      0.106
+     ],
+     [
+      0.1554,
+      0.6061,
+      0.2066,
+      0.0848
+     ],
+     [
+      0.445,
+      0.6061,
+      0.1392,
+      0.113
+     ]
+    ],
+    "nomask": false
+   },
+   "bank": "Ozon Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c118",
+   "front": {
+    "file": "2026-08-30-0205.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0213.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "ВТБ",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "Привилегия Supreme",
+   "notes": "",
+   "tags": [
+    "привилегия",
+    "supreme"
+   ],
+   "status": "done"
+  },
+  {
+   "id": "c119",
+   "front": {
+    "file": "2026-08-30-0206.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0214.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Wildberries Банк",
+   "country": "RU",
+   "network": "Мир",
+   "type": "дебетовая",
+   "title": "",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  },
+  {
+   "id": "c120",
+   "front": {
+    "file": "2026-08-30-0215.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "back": {
+    "file": "2026-08-30-0217.png",
+    "rotate": 0,
+    "masks": [],
+    "nomask": true
+   },
+   "bank": "Альфа-Мобайл",
+   "country": "RU",
+   "network": "без платёжной системы",
+   "type": "другое",
+   "title": "сим-карта",
+   "notes": "",
+   "tags": [],
+   "status": "done"
+  }
+ ]
+}

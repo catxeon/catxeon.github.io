@@ -1,0 +1,7 @@
+scans/
+.cache/
+data/*.tmp
+Thumbs.db
+desktop.ini
+__pycache__/
+*.pyc
