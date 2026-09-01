@@ -49,7 +49,7 @@ function fan(cards) {
 async function boot() {
   mail();
   try {
-    const data = await (await fetch("data/site.json", { cache: "no-cache" })).json();
+    const data = await (await fetch("/data/site.json", { cache: "no-cache" })).json();
     const cards = data.cards || [];
     if (cards.length) document.getElementById("count").textContent = cards.length;
     fan(cards);

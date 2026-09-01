@@ -22,9 +22,9 @@ const LABELS = {
 async function boot() {
   let data;
   try {
-    data = await (await fetch("data/site.json", { cache: "no-cache" })).json();
+    data = await (await fetch("/data/site.json", { cache: "no-cache" })).json();
   } catch (e) {
-    $("#grid").append(el("p", "muted", "Не удалось загрузить data/site.json"));
+    $("#grid").append(el("p", "muted", "Не удалось загрузить /data/site.json"));
     return;
   }
   cards = data.cards || [];

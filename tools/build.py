@@ -113,7 +113,7 @@ def main():
                 drawn += 1
                 print("  %s" % name)
             w, h = Image.open(out).size
-            entry[s] = {"img": "img/" + name, "thumb": "img/thumb/" + thumb_name, "w": w, "h": h}
+            entry[s] = {"img": "/img/" + name, "thumb": "/img/thumb/" + thumb_name, "w": w, "h": h}
 
         public.append(entry)
 
