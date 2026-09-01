@@ -1,0 +1,104 @@
+:root{
+  --bg:#f6f7f9; --card:#fff; --fg:#16181d; --muted:#6b7280;
+  --line:#e3e6ea; --accent:#2f6fed; --accent-fg:#fff;
+  --glow:rgba(47,111,237,.16);
+  --shadow:0 1px 2px rgba(16,24,40,.06),0 18px 40px rgba(16,24,40,.14);
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --bg:#0e1014; --card:#191c22; --fg:#e7e9ee; --muted:#949cab;
+    --line:#272c35; --accent:#6aa6ff; --accent-fg:#0d1117;
+    --glow:rgba(106,166,255,.20);
+    --shadow:0 1px 2px rgba(0,0,0,.5),0 18px 44px rgba(0,0,0,.55);
+  }
+}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{
+  margin:0;background:var(--bg);color:var(--fg);
+  font:16px/1.6 -apple-system,"Segoe UI",Roboto,system-ui,sans-serif;
+  overflow-x:hidden;
+}
+.muted{color:var(--muted)}
+
+/* Мягкое свечение за текстом, чтобы веер карт не мешал читать */
+.stage{
+  position:relative;min-height:100%;display:flex;flex-direction:column;
+  align-items:center;justify-content:center;
+  padding:clamp(24px,5vh,48px) 20px 0;overflow:hidden;
+}
+.stage::before{
+  content:"";position:absolute;left:50%;top:38%;width:min(1100px,140vw);height:min(760px,110vh);
+  transform:translate(-50%,-50%);background:radial-gradient(ellipse at center,var(--glow),transparent 68%);
+  pointer-events:none;
+}
+
+.hero{position:relative;z-index:2;max-width:640px;text-align:center;margin:auto 0}
+.kicker{
+  margin:0 0 14px;font-size:12px;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--muted);
+}
+h1{
+  margin:0 0 18px;font-size:clamp(34px,7vw,60px);line-height:1.08;
+  letter-spacing:-.02em;font-weight:700;
+}
+.lead{margin:0 0 12px;font-size:clamp(16px,2.1vw,19px)}
+.lead b{font-weight:600}
+
+.cta{
+  display:inline-block;margin:clamp(16px,3.4vh,28px) 0 0;padding:14px 30px;border-radius:999px;
+  background:var(--accent);color:var(--accent-fg);text-decoration:none;
+  font-weight:600;font-size:17px;box-shadow:var(--shadow);
+  transition:transform .14s ease,filter .14s ease;
+}
+.cta:hover{transform:translateY(-2px);filter:brightness(1.06)}
+.cta:active{transform:translateY(0)}
+.cta:focus-visible{outline:3px solid var(--accent);outline-offset:3px}
+
+.note{margin:clamp(14px,2.6vh,22px) 0 0;font-size:13px;color:var(--muted)}
+
+/* Веер сканов, выглядывающий из-за нижнего края */
+.fan{
+  position:relative;z-index:1;width:100%;max-width:1100px;height:190px;
+  margin-top:clamp(14px,4vh,36px);pointer-events:none;
+}
+.fan img{
+  position:absolute;left:50%;bottom:-58px;width:230px;border-radius:11px;
+  border:1px solid var(--line);background:#0b0d10;box-shadow:var(--shadow);
+  opacity:0;animation:rise .7s cubic-bezier(.22,.8,.3,1) forwards;
+}
+@keyframes rise{to{opacity:.92}}
+@media (prefers-reduced-motion: reduce){
+  .fan img{animation:none;opacity:.92}
+  .cta{transition:none}
+}
+
+.corner{
+  position:fixed;right:16px;bottom:14px;z-index:3;font-size:13px;
+  background:var(--card);border:1px solid var(--line);border-radius:999px;
+  box-shadow:var(--shadow);
+}
+/* Ссылка занимает всю плашку: клик по слову «Написать» тоже открывает письмо */
+.corner a{
+  display:flex;align-items:center;gap:6px;padding:7px 14px;
+  color:var(--fg);text-decoration:none;border-radius:inherit;
+}
+.corner a #mailaddr{border-bottom:1px solid var(--line)}
+.corner a:hover{color:var(--accent)}
+.corner a:hover #mailaddr{border-bottom-color:currentColor}
+.corner a:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+
+@media (max-width:640px){
+  .stage{padding-top:36px}
+  .fan{height:130px}
+  .fan img{width:160px;bottom:-40px}
+  .corner{right:10px;bottom:10px;font-size:12px}
+}
+
+/* Низкие окна: убираем воздух, чтобы кнопка оставалась на первом экране */
+@media (max-height:640px){
+  h1{margin-bottom:12px}
+  .lead{font-size:15px;margin-bottom:8px}
+  .fan{height:110px}
+  .fan img{width:150px;bottom:-34px}
+}

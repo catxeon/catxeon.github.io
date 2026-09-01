@@ -17,6 +17,9 @@ h1{font-size:24px;margin:0}
 
 .top{border-bottom:1px solid var(--line);background:var(--card);padding:18px 0;margin-bottom:20px}
 .top p{margin:4px 0 0;font-size:14px}
+.top .home{display:inline-block;margin-bottom:6px;font-size:13px;color:var(--muted);
+  text-decoration:none}
+.top .home:hover{color:var(--accent)}
 
 .controls{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:12px}
 .controls input,.controls select,.controls button{

@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Коллекция банковских карт</title>
+<meta name="description" content="Каталог коллекции банковских карт со сканами обеих сторон.">
+<link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <a class="home" href="index.html">← на главную</a>
+    <h1>Коллекция банковских карт</h1>
+    <p id="count" class="muted"></p>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="controls">
+    <input id="q" type="search" placeholder="Поиск: банк, название, заметки…" autocomplete="off">
+    <select id="f-bank"><option value="">Все банки</option></select>
+    <select id="f-network"><option value="">Все системы</option></select>
+    <select id="f-type"><option value="">Все типы</option></select>
+    <select id="f-country"><option value="">Все страны</option></select>
+    <select id="sort">
+      <option value="bank">По банку</option>
+      <option value="id">По порядку сканирования</option>
+      <option value="title">По названию</option>
+    </select>
+    <button id="reset" type="button">Сбросить</button>
+  </div>
+  <div id="tags" class="tags"></div>
+  <div id="grid" class="grid"></div>
+  <p id="none" class="muted empty" hidden>Ничего не найдено.</p>
+</div>
+
+<footer class="wrap muted">
+  <p id="generated"></p>
+</footer>
+
+<dialog id="detail">
+  <button class="close" value="close" aria-label="Закрыть">×</button>
+  <div class="detail-body">
+    <div class="shots" id="d-shots"></div>
+    <div class="meta">
+      <h2 id="d-title"></h2>
+      <dl id="d-meta"></dl>
+      <p id="d-notes"></p>
+      <div class="nav">
+        <button id="d-prev" type="button">← предыдущая</button>
+        <button id="d-next" type="button">следующая →</button>
+      </div>
+    </div>
+  </div>
+</dialog>
+
+<script src="assets/site.js"></script>
+</body>
+</html>

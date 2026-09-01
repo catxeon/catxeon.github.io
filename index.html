@@ -4,56 +4,40 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Коллекция банковских карт</title>
-<meta name="description" content="Каталог коллекции банковских карт со сканами обеих сторон.">
-<link rel="stylesheet" href="assets/site.css">
+<meta name="description" content="Личная коллекция банковских карт со сканами обеих сторон.">
+<link rel="stylesheet" href="assets/landing.css">
 </head>
 <body>
-<header class="top">
-  <div class="wrap">
-    <h1>Коллекция банковских карт</h1>
-    <p id="count" class="muted"></p>
-  </div>
-</header>
 
-<div class="wrap">
-  <div class="controls">
-    <input id="q" type="search" placeholder="Поиск: банк, название, заметки…" autocomplete="off">
-    <select id="f-bank"><option value="">Все банки</option></select>
-    <select id="f-network"><option value="">Все системы</option></select>
-    <select id="f-type"><option value="">Все типы</option></select>
-    <select id="f-country"><option value="">Все страны</option></select>
-    <select id="sort">
-      <option value="bank">По банку</option>
-      <option value="id">По порядку сканирования</option>
-      <option value="title">По названию</option>
-    </select>
-    <button id="reset" type="button">Сбросить</button>
-  </div>
-  <div id="tags" class="tags"></div>
-  <div id="grid" class="grid"></div>
-  <p id="none" class="muted empty" hidden>Ничего не найдено.</p>
+<div class="stage">
+  <main class="hero">
+    <p class="kicker">Личный музей пластика</p>
+    <h1>Как вы сюда попали?</h1>
+    <p class="lead">
+      Нет, правда. Это сайт про <b><span id="count">120</span> банковских карт</b>,
+      отсканированных с двух сторон и зачем-то разложенных по банкам,
+      платёжным системам и типам.
+    </p>
+    <p class="lead muted">
+      Ни рекламы, ни подписки, ни баннера про куки. Уходить, впрочем, тоже необязательно.
+    </p>
+
+    <a class="cta" href="collection.html">Посмотреть коллекцию</a>
+
+    <p class="note">
+      Все карты из коллекции давно заблокированы. Так что можешь не пытаться.
+    </p>
+  </main>
+
+  <div class="fan" id="fan" aria-hidden="true"></div>
 </div>
 
-<footer class="wrap muted">
-  <p id="generated"></p>
+<footer class="corner">
+  <a id="mail" href="#" title="Написать письмо">
+    <span class="muted">Написать:</span><span id="mailaddr">…</span>
+  </a>
 </footer>
 
-<dialog id="detail">
-  <button class="close" value="close" aria-label="Закрыть">×</button>
-  <div class="detail-body">
-    <div class="shots" id="d-shots"></div>
-    <div class="meta">
-      <h2 id="d-title"></h2>
-      <dl id="d-meta"></dl>
-      <p id="d-notes"></p>
-      <div class="nav">
-        <button id="d-prev" type="button">← предыдущая</button>
-        <button id="d-next" type="button">следующая →</button>
-      </div>
-    </div>
-  </div>
-</dialog>
-
-<script src="assets/site.js"></script>
+<script src="assets/landing.js"></script>
 </body>
 </html>
