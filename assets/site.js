@@ -79,6 +79,11 @@ function bind() {
     apply();
   };
   $(".close").onclick = () => $("#detail").close();
+  let downOutside = false;
+  $("#detail").addEventListener("mousedown", (e) => { downOutside = e.target === $("#detail"); });
+  $("#detail").addEventListener("click", (e) => {
+    if (downOutside && e.target === $("#detail")) $("#detail").close();
+  });
   $("#detail").addEventListener("close", () => {
     if (location.hash) history.replaceState(null, "", location.pathname + location.search);
   });
