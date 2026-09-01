@@ -2,7 +2,8 @@
 
     python tools/serve.py
 
-Поднимает http://127.0.0.1:8777 : отдаёт editor.html, уменьшенные превью
+Поднимает http://127.0.0.1:8777 : по / отдаёт сайт ровно так, как он будет
+выглядеть на Pages, по /editor -- редактор коллекции. Плюс уменьшенные превью
 оригиналов из scans/ и API для чтения/записи data/cards.json. Оригиналы
 наружу не публикуются -- сервер слушает только localhost.
 """
@@ -63,7 +64,9 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         url = urllib.parse.urlparse(self.path)
         path = urllib.parse.unquote(url.path)
 
-        if path == "/":
+        # "/" отдаёт лендинг, как на боевом сайте, чтобы локальный просмотр
+        # совпадал с продакшеном; редактор живёт на /editor
+        if path in ("/editor", "/editor/"):
             self.path = "/editor.html"
             return super().do_GET()
 
@@ -147,11 +150,13 @@ def main():
     ap.add_argument("--no-browser", action="store_true")
     args = ap.parse_args()
 
-    url = "http://127.0.0.1:%d/" % args.port
+    base = "http://127.0.0.1:%d" % args.port
+    editor = base + "/editor"
     with Server(("127.0.0.1", args.port), Handler) as srv:
-        print("Редактор: %s   (Ctrl+C чтобы остановить)" % url)
+        print("Редактор: %s" % editor)
+        print("Сайт:     %s/   (Ctrl+C чтобы остановить)" % base)
         if not args.no_browser:
-            threading.Timer(0.6, lambda: webbrowser.open(url)).start()
+            threading.Timer(0.6, lambda: webbrowser.open(editor)).start()
         try:
             srv.serve_forever()
         except KeyboardInterrupt:
