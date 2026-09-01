@@ -1,8 +1,6 @@
 "use strict";
-// Лендинг: подставляет реальное число карт, раскладывает веер случайных
-// сканов из коллекции и собирает адрес почты в рантайме.
 
-// Адрес не лежит в HTML целиком, чтобы его не выгребли спам-боты со страницы.
+
 const MAIL = ["petya", "petya.cc"];
 
 function mail() {
@@ -17,7 +15,7 @@ function fan(cards) {
   const wide = window.matchMedia("(min-width: 900px)").matches;
   const n = wide ? 7 : 5;
 
-  // берём только лицевые стороны — веер из оборотов выглядит уныло
+
   const pool = cards.filter((c) => c.front && c.front.thumb);
   if (pool.length < n) return;
 
@@ -54,7 +52,7 @@ async function boot() {
     if (cards.length) document.getElementById("count").textContent = cards.length;
     fan(cards);
   } catch (e) {
-    // без site.json лендинг просто остаётся без веера — это нормально
+
   }
 }
 

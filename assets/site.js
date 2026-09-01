@@ -1,5 +1,5 @@
 "use strict";
-// Публичная галерея. Читает data/site.json, который собирает tools/build.py.
+
 
 const $ = (s) => document.querySelector(s);
 const el = (tag, cls, txt) => {
@@ -10,7 +10,7 @@ const el = (tag, cls, txt) => {
 };
 
 let cards = [];
-let view = [];        // отфильтрованный и отсортированный список
+let view = [];
 let activeTags = new Set();
 
 const FILTERS = ["bank", "network", "type", "country"];
@@ -177,8 +177,7 @@ function openCard(id) {
   if (!$("#detail").open) $("#detail").showModal();
 }
 
-// Листание внутри текущей выборки. Если карта открыта по прямой ссылке и
-// отфильтрована, листать некуда -- ничего не делаем.
+
 function step(d) {
   const i = view.findIndex((c) => c.id === location.hash.slice(1));
   if (i < 0) return;
