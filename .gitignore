@@ -5,3 +5,10 @@ Thumbs.db
 desktop.ini
 __pycache__/
 *.pyc
+
+# Локальный инструментарий: в репозиторий сайта не уезжает
+tools/
+editor.html
+assets/editor.css
+assets/editor.js
+requirements.txt
